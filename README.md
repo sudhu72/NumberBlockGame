@@ -15,4 +15,6 @@ The executable jar can be built using the following gradle command.
 
 The executable jar generated is NumberBlockGame.jar
 
+A pre-built jar is in the release directory.
+
 Enjoy!
